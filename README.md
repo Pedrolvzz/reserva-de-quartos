@@ -1,8 +1,14 @@
-# 🏨 Reserva de Quartos em Python
+# Reserva de Quartos em Python
 
 Sistema simples de reservas pelo terminal, desenvolvido para praticar lógica de programação em Python.
 
 O programa controla a disponibilidade de **10 quartos**, numerados de 1 a 10.
+
+**Python 3 · Terminal · Sem dependências externas**
+
+![Saída real do programa ao reservar o quarto 5 e consultar a disponibilidade](./docs/demo.png)
+
+*A imagem apresenta uma execução real: reserva do quarto 5, consulta da disponibilidade e encerramento. A saída foi diagramada para facilitar a leitura.*
 
 ## Funcionalidades
 
@@ -25,7 +31,6 @@ O programa controla a disponibilidade de **10 quartos**, numerados de 1 a 10.
 python main.py
 ```
 
-Se o arquivo tiver outro nome, substitua `main.py` pelo nome correspondente.
 
 ## Como usar
 
